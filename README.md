@@ -30,3 +30,6 @@
 * More info on the [circuit breaker pattern](https://docs.microsoft.com/azure/architecture/patterns/circuit-breaker)
 * [GitHub REST API](https://docs.github.com/en/rest)
 * Alternative to code-based workflows in Microsoft Azure: [Azure Logic Apps](https://azure.microsoft.com/services/logic-apps/)
+
+
+![diagram](img/diagram.png)
