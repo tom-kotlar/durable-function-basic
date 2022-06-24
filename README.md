@@ -7,7 +7,17 @@ Based on [Azure Durable Functions - Introduction & Chaining (TypeScript)](https:
 - The [Microsoft Azure Storage Emulator](https://docs.microsoft.com/azure/storage/common/storage-use-emulator)  
 - The [Azure Storage Explorer](https://azure.microsoft.com/features/storage-explorer/)  
 
+**local.settings.joson**
+```bash
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true"
+  }
+}
 
+```
 
 ## Resources
 
