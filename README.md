@@ -1,6 +1,11 @@
-##  Prerequisites
+<img src="zappy-192.gif" height="150px"/>
 
-Based on [Azure Durable Functions - Introduction & Chaining (TypeScript)](https://github.com/marcduiker/azure-functions-university/tree/main/lessons/typescript/durable-functions/chaining)
+# Based on [Azure Durable Functions - Introduction & Chaining (TypeScript)](https://github.com/marcduiker/azure-functions-university/tree/main/lessons/typescript/durable-functions/chaining)
+
+
+
+
+##  Prerequisites
 
 - A local folder with a Function App.  
 - The [Azure Functions extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions) for VSCode.  
@@ -43,3 +48,5 @@ Based on [Azure Durable Functions - Introduction & Chaining (TypeScript)](https:
 
 
 ![diagram](img/diagram.png)
+
+
